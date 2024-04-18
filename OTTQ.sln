@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTQ", "OTTQ\OTTQ.csproj", "{81933F5E-9F0D-4B62-B299-E9B072115966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81933F5E-9F0D-4B62-B299-E9B072115966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81933F5E-9F0D-4B62-B299-E9B072115966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81933F5E-9F0D-4B62-B299-E9B072115966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81933F5E-9F0D-4B62-B299-E9B072115966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9B4DA1-AA4D-4DFC-98A9-A13C93D24103}
+	EndGlobalSection
+EndGlobal
