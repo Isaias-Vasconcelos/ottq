@@ -6,17 +6,17 @@ Crie a classe do seu jeito e gere um sql a partir dela...
 
 #### CLI .NET :
 
-![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/70031911-f723-4921-8b6b-5dd46a28153f)
+![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/d4758883-0518-4b1e-9191-36271849c343)
 
 #### Package Manager :
 
-![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/341ae4be-f6d1-4e91-8b0c-c58c4dd9077d)
+![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/58b88d76-5075-47d3-a3b8-a634075423b6)
 
 ### uso:
 
 Siga o exemplo abaixo:
 
-![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/370b8fdd-c318-4894-9c6b-bf138a9cc3f9)
+![image](https://github.com/Isaias-Vasconcelos/ottq/assets/97587647/6d3b22c9-549f-42e1-8819-61256f08ca91)
 
 Nota: Otimize seu tempo iniciando cada propriedade com seu valor, assim como foi feito no exemplo acima.
 
